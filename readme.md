@@ -2,7 +2,7 @@
 
 Esta es la rama alternativa 
 
-segundo commit
+tercer commit
 
 ##  ¿Qué es CI y CD?
 
