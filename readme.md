@@ -1,6 +1,8 @@
 # CI / CD
 
-Esta es la rama alternativa
+Esta es la rama alternativa 
+
+segundo commit
 
 ##  ¿Qué es CI y CD?
 
