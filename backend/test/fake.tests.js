@@ -2,5 +2,5 @@
 const assert = require('assert')
 
 it('Fake but productive test', () => {
-  assert.strictEqual(true, true)
+  assert.strictEqual(true, false)
 })
