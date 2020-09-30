@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+      - name: Run Npm Install for CI environment
+        run: npm ci --prefix backend
       - name: Run Eslint
         run: npm run lint --prefix backend
   tests:
