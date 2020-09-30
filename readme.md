@@ -46,7 +46,7 @@ https://www.atlassian.com/continuous-delivery/principles/continuous-integration-
 
 ### Github
 - Pipeline para dev environment
-  - Solo se activará en la rama DEV
+  - Solo se activará cuando la acción sucede en otro lugar que
   - Fases:
     - trigger
     - style check
